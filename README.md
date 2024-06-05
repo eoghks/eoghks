@@ -16,7 +16,7 @@
 **Framework & Libraries**  
 ![Static Badge](https://img.shields.io/badge/Spring-66CC00) 
 ![Static Badge](https://img.shields.io/badge/Spring%20Boot-66CC00) 
-![Static Badge](https://img.shields.io/badge/Node.js-66FF00) 
+![Static Badge](https://img.shields.io/badge/Node.js-33FF00) 
 ![Static Badge](https://img.shields.io/badge/JPA-D1180B) 
 ![Static Badge](https://img.shields.io/badge/Mybatis-D1180B) 
 ![Static Badge](https://img.shields.io/badge/Kendo%20UI-FF7F00) 
