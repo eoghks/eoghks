@@ -13,20 +13,20 @@
 ![Static Badge](https://img.shields.io/badge/CSS-004EA2) 
 
   
-**Framework & Libraries**
-![Static Badge](https://img.shields.io/badge/Spring-33FF00) 
-![Static Badge](https://img.shields.io/badge/Spring%20Boot-33FF00) 
+**Framework & Libraries**  
+![Static Badge](https://img.shields.io/badge/Spring-33FF66) 
+![Static Badge](https://img.shields.io/badge/Spring%20Boot-33FF66) 
 ![Static Badge](https://img.shields.io/badge/Node.js-33FF00) 
 ![Static Badge](https://img.shields.io/badge/JPA-D1180B) 
 ![Static Badge](https://img.shields.io/badge/Mybatis-D1180B) 
 ![Static Badge](https://img.shields.io/badge/Kendo%20UI-FF7F00) 
 ![Static Badge](https://img.shields.io/badge/JQuery-0066FF) 
   
-**Database** 
+**Database**  
 ![Static Badge](https://img.shields.io/badge/JQuery-FF7F00) 
 ![Static Badge](https://img.shields.io/badge/JQuery-FF7F00) 
   
-**Tools** 
+**Tools**  
 ![Static Badge](https://img.shields.io/badge/Eclipse-183264) 
 ![Static Badge](https://img.shields.io/badge/IntelliJ-333333) 
 ![Static Badge](https://img.shields.io/badge/VS%20Code-3333FF) 
@@ -34,7 +34,7 @@
 ![Static Badge](https://img.shields.io/badge/SVN-FF7F00) 
 ![Static Badge](https://img.shields.io/badge/Notion-FF7F00) 
   
-**Misc** 
+**Misc**  
 ![Static Badge](https://img.shields.io/badge/Linux-FF7F00) 
 ![Static Badge](https://img.shields.io/badge/Agile-FF7F00) 
 
