@@ -23,20 +23,20 @@
 ![Static Badge](https://img.shields.io/badge/JQuery-0066FF) 
   
 **Database**  
-![Static Badge](https://img.shields.io/badge/JQuery-FF7F00) 
-![Static Badge](https://img.shields.io/badge/JQuery-FF7F00) 
+![Static Badge](https://img.shields.io/badge/PostgreSQL-0066FF) 
+![Static Badge](https://img.shields.io/badge/MySQL-0066CC) 
   
 **Tools**  
 ![Static Badge](https://img.shields.io/badge/Eclipse-183264) 
 ![Static Badge](https://img.shields.io/badge/IntelliJ-333333) 
 ![Static Badge](https://img.shields.io/badge/VS%20Code-3333FF) 
 ![Static Badge](https://img.shields.io/badge/Git-FF7F00) 
-![Static Badge](https://img.shields.io/badge/SVN-FF7F00) 
-![Static Badge](https://img.shields.io/badge/Notion-FF7F00) 
+![Static Badge](https://img.shields.io/badge/SVN-0066FF) 
+![Static Badge](https://img.shields.io/badge/Notion-222222) 
   
 **Misc**  
 ![Static Badge](https://img.shields.io/badge/Linux-222222) 
-![Static Badge](https://img.shields.io/badge/Agile-FF7F00) 
+![Static Badge](https://img.shields.io/badge/Agile-444444) 
 
 <!--
 **eoghks/eoghks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
