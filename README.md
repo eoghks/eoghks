@@ -7,14 +7,20 @@
 ## Tech Stacks  
 Language  
 ![Static Badge](https://img.shields.io/badge/JAVA-FF7F00) 
-![Static Badge](https://img.shields.io/badge/Python-79ECFF) 
+![Static Badge](https://img.shields.io/badge/Python-FF7F00) 
 ![Static Badge](https://img.shields.io/badge/HTML-D1180B) 
 ![Static Badge](https://img.shields.io/badge/JavaScript-FFFF00) 
 ![Static Badge](https://img.shields.io/badge/CSS-004EA2) 
 
   
 Framework & Libraries  
-
+![Static Badge](https://img.shields.io/badge/Spring-D0FC5C) 
+![Static Badge](https://img.shields.io/badge/Spring%20Boot-D0FC5C) 
+![Static Badge](https://img.shields.io/badge/JPA-D1180B) 
+![Static Badge](https://img.shields.io/badge/Mybatis-D1180B) 
+![Static Badge](https://img.shields.io/badge/Node.js-D0FC5C) 
+![Static Badge](https://img.shields.io/badge/Kendo%20UI-FF7F00) 
+![Static Badge](https://img.shields.io/badge/JQuery-FF7F00) 
   
 Database  
 
