@@ -7,14 +7,22 @@
 ## Tech Stacks  
 Language  
 ![Static Badge](https://img.shields.io/badge/JAVA-FF7F00) 
+![Static Badge](https://img.shields.io/badge/Python-79ECFF) 
+![Static Badge](https://img.shields.io/badge/HTML-D1180B) 
+![Static Badge](https://img.shields.io/badge/JavaScript-FFFF00) 
+![Static Badge](https://img.shields.io/badge/CSS-004EA2) 
+
+  
 Framework & Libraries  
 
+  
 Database  
 
+  
 Tools  
 
+  
 Misc  
-
 
 <!--
 **eoghks/eoghks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
