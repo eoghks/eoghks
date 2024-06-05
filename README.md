@@ -6,7 +6,7 @@
 
 ## Tech Stacks  
 Language  
-https://img.shields.io/badge/JAVA-FF7F00
+![Static Badge](https://img.shields.io/badge/JAVA-FF7F00) 
 Framework & Libraries  
 
 Database  
