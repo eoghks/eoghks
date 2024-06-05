@@ -14,8 +14,8 @@
 
   
 **Framework & Libraries**  
-![Static Badge](https://img.shields.io/badge/Spring-33FF66) 
-![Static Badge](https://img.shields.io/badge/Spring%20Boot-33FF66) 
+![Static Badge](https://img.shields.io/badge/Spring-66FF00) 
+![Static Badge](https://img.shields.io/badge/Spring%20Boot-66FF00) 
 ![Static Badge](https://img.shields.io/badge/Node.js-33FF00) 
 ![Static Badge](https://img.shields.io/badge/JPA-D1180B) 
 ![Static Badge](https://img.shields.io/badge/Mybatis-D1180B) 
@@ -35,7 +35,7 @@
 ![Static Badge](https://img.shields.io/badge/Notion-FF7F00) 
   
 **Misc**  
-![Static Badge](https://img.shields.io/badge/Linux-FF7F00) 
+![Static Badge](https://img.shields.io/badge/Linux-222222) 
 ![Static Badge](https://img.shields.io/badge/Agile-FF7F00) 
 
 <!--
