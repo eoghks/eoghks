@@ -5,7 +5,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eoghks&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tech Stacks  
-**굵게**Language  
+**Language**  
 ![Static Badge](https://img.shields.io/badge/JAVA-FF7F00) 
 ![Static Badge](https://img.shields.io/badge/Python-FF7F00) 
 ![Static Badge](https://img.shields.io/badge/HTML-D1180B) 
@@ -13,22 +13,30 @@
 ![Static Badge](https://img.shields.io/badge/CSS-004EA2) 
 
   
-**굵게**Framework & Libraries  
-![Static Badge](https://img.shields.io/badge/Spring-D0FC5C) 
-![Static Badge](https://img.shields.io/badge/Spring%20Boot-D0FC5C) 
+**Framework & Libraries**
+![Static Badge](https://img.shields.io/badge/Spring-33FF00) 
+![Static Badge](https://img.shields.io/badge/Spring%20Boot-33FF00) 
+![Static Badge](https://img.shields.io/badge/Node.js-33FF00) 
 ![Static Badge](https://img.shields.io/badge/JPA-D1180B) 
 ![Static Badge](https://img.shields.io/badge/Mybatis-D1180B) 
-![Static Badge](https://img.shields.io/badge/Node.js-D0FC5C) 
 ![Static Badge](https://img.shields.io/badge/Kendo%20UI-FF7F00) 
+![Static Badge](https://img.shields.io/badge/JQuery-0066FF) 
+  
+**Database** 
+![Static Badge](https://img.shields.io/badge/JQuery-FF7F00) 
 ![Static Badge](https://img.shields.io/badge/JQuery-FF7F00) 
   
-**굵게**Database  
-
+**Tools** 
+![Static Badge](https://img.shields.io/badge/Eclipse-183264) 
+![Static Badge](https://img.shields.io/badge/IntelliJ-333333) 
+![Static Badge](https://img.shields.io/badge/VS%20Code-3333FF) 
+![Static Badge](https://img.shields.io/badge/Git-FF7F00) 
+![Static Badge](https://img.shields.io/badge/SVN-FF7F00) 
+![Static Badge](https://img.shields.io/badge/Notion-FF7F00) 
   
-**굵게**Tools  
-
-  
-**굵게**Misc  
+**Misc** 
+![Static Badge](https://img.shields.io/badge/Linux-FF7F00) 
+![Static Badge](https://img.shields.io/badge/Agile-FF7F00) 
 
 <!--
 **eoghks/eoghks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
