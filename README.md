@@ -3,8 +3,8 @@
 벡인드 개발 기술로는 Java, Spring framework, RDBMS, JPA를 주로 사용하고 있습니다.  
 문제의 근본적인 원인을 파악하고 그에 따른 해결책을 찾기 위해 꾸준히 학습하고 있으며, 다양한 경험을 쌓기 위해 노력하고 있습니다.  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eoghks&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-## Tech Stacks  
+  
+## Tech Stacks⚡ 
 **Language**  
 ![Static Badge](https://img.shields.io/badge/JAVA-FF7F00) 
 ![Static Badge](https://img.shields.io/badge/Python-FF7F00) 
