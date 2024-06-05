@@ -5,7 +5,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eoghks&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tech Stacks  
-Language  
+**굵게**Language  
 ![Static Badge](https://img.shields.io/badge/JAVA-FF7F00) 
 ![Static Badge](https://img.shields.io/badge/Python-FF7F00) 
 ![Static Badge](https://img.shields.io/badge/HTML-D1180B) 
@@ -13,7 +13,7 @@ Language
 ![Static Badge](https://img.shields.io/badge/CSS-004EA2) 
 
   
-Framework & Libraries  
+**굵게**Framework & Libraries  
 ![Static Badge](https://img.shields.io/badge/Spring-D0FC5C) 
 ![Static Badge](https://img.shields.io/badge/Spring%20Boot-D0FC5C) 
 ![Static Badge](https://img.shields.io/badge/JPA-D1180B) 
@@ -22,13 +22,13 @@ Framework & Libraries
 ![Static Badge](https://img.shields.io/badge/Kendo%20UI-FF7F00) 
 ![Static Badge](https://img.shields.io/badge/JQuery-FF7F00) 
   
-Database  
+**굵게**Database  
 
   
-Tools  
+**굵게**Tools  
 
   
-Misc  
+**굵게**Misc  
 
 <!--
 **eoghks/eoghks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
